@@ -1,6 +1,10 @@
 body {
   margin: 0 auto;
   max-width: 50em;
-  
+
   font-family: sans-serif;
+}
+
+div {
+  padding: 4em 1em;
 }
