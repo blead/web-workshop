@@ -16,3 +16,7 @@ div {
 div.dark-background {
   background-color: #eee;
 }
+
+div.border {
+  border: 2px solid #303;
+}
