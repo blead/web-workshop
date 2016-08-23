@@ -44,3 +44,12 @@ img {
 #table > table {
   border-collapse: collapse;
 }
+
+a.button {
+  border: 1px solid #303;
+  padding: 6px 12px;
+  border-radius: 12px;
+  color: #fff;
+  background-color: #123456;
+  text-decoration: none;
+}
