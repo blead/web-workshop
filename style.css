@@ -12,3 +12,7 @@ div {
 .red {
   color: #F00;
 }
+
+div.dark-background {
+  background-color: #eee;
+}
