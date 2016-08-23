@@ -8,3 +8,7 @@ body {
 div {
   padding: 4em 1em;
 }
+
+.red {
+  color: #F00;
+}
