@@ -58,3 +58,10 @@ a.button {
 a.button:hover {
   background-color: #654321;
 }
+
+html {
+  background-image: url("background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
