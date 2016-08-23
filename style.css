@@ -35,3 +35,8 @@ img {
 #list {
   line-height: 1.5em;
 }
+
+#table > table, #table th, #table td{
+  padding: 12px;
+  border: 1px solid black;
+}
